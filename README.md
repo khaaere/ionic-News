@@ -22,7 +22,7 @@ News App is a modern and responsive mobile application built using **Ionic Frame
 To run the project locally, follow these steps:  
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/news-app.git
+git clone https://github.com/khaaere/news-app.git
 
 # Navigate to the project folder
 cd news-app
